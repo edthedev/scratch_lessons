@@ -1,4 +1,4 @@
 # Scratch Lessons
 Some lessons designed for learning scratch.
 
-- [Lesson 1: Starfish Chase](starfishchase.md)
+- [Lesson 1: Starfish Chase](/StarfishChase.md)
