@@ -1,5 +1,7 @@
 # Red Light! Green Light!
 
+![red light welcome](redlightwelcome.png)
+
 ## Rules to Play
 
 Use the arrow keys to move left and right.
@@ -24,21 +26,21 @@ Notice the minus sign in front of the 10 under the left arrow key code. This tel
 
 ### Make the Stop Light
 
-![cat and ball sprite listed](/Downloads/catandballsprites.png)
+![cat and ball sprite listed](catandballsprites.png)
 
 Add a new ball sprite. It will become our stop light.
 
 Add the following code to the ball sprite.
 
-![Stop light code](/Downloads/redlightcode.png)
+![Stop light code](redlightcode.png)
 
 These commands change the color of the ball. Different numbers select different colors. I figured out which colors were red and green by trying lots of different numbers.
 
-![set color red](setcolorto180.png) ![Green ball](greenball.png)
+- ![set color red](setcolor180.png) ![Green ball](greenball.png)
+- ![set color red](setcolor255.png) ![Red ball](redball.png)
 
-![set color red](setcolorto255.png) ![Red ball](redball.png)
+Without the *wait 1 secs* command, our light would change much to fast, making the game too hard. 
 
-
-![Red Ball](redball.png)
+![wait 1 sec](wait1sec.png)
 
 [Play or Remix my version](https://scratch.mit.edu/projects/170705647/)
