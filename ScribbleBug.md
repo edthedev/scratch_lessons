@@ -24,22 +24,25 @@ The blocks we want are:
 - Change pen color by 10
 - Move 10 steps
 
-*Pen Down* is a *Pen* script. Find it in the *Pen* section. It tells Scribble Bug to touch the pen down to the page.
 
 ![Scripts Pen](ScriptsPen.png)
 
-*Forever* is a control script. It will make the commands inside repeat forever. You will use it to make Scribble Bug follow 
-your mouse forever.
+*Pen Down* is a *Pen* script. Find it in the *Pen* section. You may need to scroll down in the scripts window. It tells Scribble Bug to touch the pen down to the page.
 
 ![Scripts Control](ScriptsControl.png)
 
-*Point Toward* is a *Motion* script. You will use it to tell Scribble Bug to point toward your mouse pointer. Since it goes inside the *Forever* script, Scribble Bug will point toward your mouse forever.
+*Forever* is a *Control* script. Find it in the *Control* section. It will make the commands inside repeat forever. You will use it to make Scribble Bug follow 
+your mouse forever.
 
 ![Scripts Motion](ScriptsMotion.png)
 
-*Change pen color by 10* is another *Pen* script. It tells scribble bug to change its pen color just a little bit. Since it goes inside the *Forever* script, Scribble Bug will draw a rainbow line!
+*Point Toward* is a *Motion* script. You will use it to tell Scribble Bug to point toward your mouse pointer. Since it goes inside the *Forever* script, Scribble Bug will point toward your mouse forever.
 
 ![Scripts Pen](ScriptsPen.png)
+
+*Change pen color by 10* is another *Pen* script. It tells scribble bug to change its pen color just a little bit. Since it goes inside the *Forever* script, Scribble Bug will draw a rainbow line!
+
+![Scripts Motion](ScriptsMotion.png)
 
 *Move 10 steps* is another *Motion* script. It tell scribble bug to move forward a little bit. Since it goes inside the *Forever* script, Scribble Bug will always move forward. If we forgot this command, Scribble Bug would forget to move.
 
