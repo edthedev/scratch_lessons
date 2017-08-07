@@ -2,11 +2,12 @@
 
 ![Squid chasing starfish](https://github.com/edthedev/scratch_lessons/blob/master/Screenshot%202017-08-06%20at%208.39.47%20PM.png)
 
-Make a game where a squid follows your mouse pointer.
+Make a game where a squid follows your mouse pointer, and starfish run away from the squid.
 
 ## Add the first two sprites.
 
 Start by adding a squid sprite and a starfish sprite.
+
 
 
 ## Code the Squid
@@ -18,12 +19,19 @@ Click on the squid sprite and add the following code:
 
 ## Code the starfish
 
+Be sure to name the squid sprite 'squid'. The starfish code below uses this name to decide which sprite to run away from. 
+
+- Right-click on the squid sprite.
+- Select 'Info'
+- Type the new name 'squid' in the box that appears.
+- Press the back arrow to return to the sprite list.
+
+![Sprite info](blob/master/NameYourSprite.png)
+![Sprite Name](blob/master/NameYourSprite2.png)
+
 Click on the starfish sprite and add the following code:
 
 -![Starfish source code](https://github.com/edthedev/scratch_lessons/blob/master/Screenshot%202017-08-06%20at%208.40.33%20PM.png)
-
-Details to pay attention to:
-- I named by squid sprite "scaryboy". Where you see "scaryboy" above, use the name you gave to your squid sprite.
 
 ## More Starfish!
 
