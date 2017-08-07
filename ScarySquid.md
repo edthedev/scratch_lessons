@@ -26,8 +26,8 @@ Be sure to name the squid sprite 'squid'. The starfish code below uses this name
 - Type the new name 'squid' in the box that appears.
 - Press the back arrow to return to the sprite list.
 
-![Sprite info](blob/master/NameYourSprite.png)
-![Sprite Name](blob/master/NameYourSprite2.png)
+![Sprite info](NameYourSprite.png)
+![Sprite Name](NameYourSprite2.png)
 
 Click on the starfish sprite and add the following code:
 
