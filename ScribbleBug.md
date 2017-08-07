@@ -69,8 +69,9 @@ Now that you have all the parts, here's the way to assemble them, again.
 
 ## Play!
 
+![Green Flag](GreenFlag.png)
+
 Press the *Green Flag* to play your new game!
-![Green Flag](greenflag.png)
 
 ![Scribble Bug Intro Picture](ScribbleBug.png)
 
