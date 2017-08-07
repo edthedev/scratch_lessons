@@ -184,7 +184,8 @@ If you want more starfish to chase, duplicate the star fish a few times.
  
  ## Play!
 
-![Green Flag](greenflag.png)
+![Green Flag](GreenFlag.png)
+
 Press the *Green Flag* to play your new game!
 
 ![red light welcome](redlightwelcome.png)
