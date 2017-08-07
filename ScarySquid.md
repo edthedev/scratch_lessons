@@ -23,23 +23,26 @@ Be sure to name the squid sprite 'squid'. The starfish code below uses this name
 
 - Right-click on the squid sprite.
 - Select 'Info'
+- ![Sprite info](NameYourSprite.png)
 - Type the new name 'squid' in the box that appears.
 - Press the back arrow to return to the sprite list.
+- ![Sprite Name](NameYourSprite2.png)
 
-![Sprite info](NameYourSprite.png)
-![Sprite Name](NameYourSprite2.png)
 
 Click on the starfish sprite and add the following code to make the starfish run away from the squid.
 
--![Starfish source code](StarfishCode1.png)
+![Starfish source code](StarfishCode1.png)
 
-BONUS! Make the starfish wander around randomly when they are not being chased. Click on the starfish sprite and expand the code to match the following.
+## BONUS! Wandering Starfish
 
--![Advanced Starfish source code](StarfishCode2.png)
+Make the starfish wander around when not chased. 
+Click on the starfish sprite and expand the code to match the following.
 
-## More Starfish!
+![Advanced Starfish source code](StarfishCode2.png)
+
+## BONUS! More Starfish!
 
 If you want more starfish to chase, duplicate the star fish a few times.
 
- -![How to duplicate Starfish](https://github.com/edthedev/scratch_lessons/blob/master/Screenshot%202017-08-06%20at%208.40.53%20PM.png)		 
+![How to duplicate Starfish](https://github.com/edthedev/scratch_lessons/blob/master/Screenshot%202017-08-06%20at%208.40.53%20PM.png)		 
  
