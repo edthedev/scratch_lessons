@@ -52,7 +52,7 @@ your mouse forever.
 
 ![Scripts Motion](ScriptsMotion.png)
 
-![Move 10 steps](movetensteps.png)
+![Move 10 steps](move10steps.png)
 
 *Move 10 steps* is another *Motion* script. It tell scribble bug to move forward a little bit. Since it goes inside the *Forever* script, Scribble Bug will always move forward. If we forgot this command, Scribble Bug would forget to move.
 
