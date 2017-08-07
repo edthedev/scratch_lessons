@@ -26,20 +26,20 @@ The blocks we want are:
 
 *Pen Down* is a *Pen* script. Find it in the *Pen* section. It tells Scribble Bug to touch the pen down to the page.
 
-![Scripts Pen](ScriptsPen.md)
+![Scripts Pen](ScriptsPen.png)
 
 *Forever* is a control script. It will make the commands inside repeat forever. You will use it to make Scribble Bug follow 
 your mouse forever.
 
-![Scripts Control](ScriptsControl.md)
+![Scripts Control](ScriptsControl.png)
 
 *Point Toward* is a *Motion* script. You will use it to tell Scribble Bug to point toward your mouse pointer. Since it goes inside the *Forever* script, Scribble Bug will point toward your mouse forever.
 
-![Scripts Motion](ScriptsMotion.md)
+![Scripts Motion](ScriptsMotion.png)
 
 *Change pen color by 10* is another *Pen* script. It tells scribble bug to change its pen color just a little bit. Since it goes inside the *Forever* script, Scribble Bug will draw a rainbow line!
 
-![Scripts Pen](ScriptsPen.md)
+![Scripts Pen](ScriptsPen.png)
 
 *Move 10 steps* is another *Motion* script. It tell scribble bug to move forward a little bit. Since it goes inside the *Forever* script, Scribble Bug will always move forward. If we forgot this command, Scribble Bug would forget to move.
 
