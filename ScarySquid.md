@@ -1,9 +1,32 @@
+# Starfish Chase!
+
 ![Squid chasing starfish](https://github.com/edthedev/scratch_lessons/blob/master/Screenshot%202017-08-06%20at%208.39.47%20PM.png)
 
-![Squid source code]("scratch_lessons/Screenshot 2017-08-06 at 8.40.07 PM.png")
+Make a game where a squid follows your mouse pointer.
+
+## Add the first two sprites.
+
+Start by adding a squid sprite and a starfish sprite.
 
 
--![Starfish source code]()		 
- +![Starfish source code](Screenshot 2017-08-06 at 8.40.33 PM.png)
- -![How to duplicate Starfish]()		 
- +![How to duplicate Starfish](Screenshot 2017-08-06 at 8.40.53 PM.png)
+## Code the Squid
+
+Click on the squid sprit and add the following code:
+
+![Squid source code](https://github.com/edthedev/scratch_lessons/blob/master/Screenshot%202017-08-06%20at%208.40.07%20PM.png)
+
+Details to pay attention to:
+- This code references the squid sprite, so it will only work if you named the squid sprite "squid".
+
+## Code the starfish
+
+Click on the starfish sprite and add the following code:
+
+-![Starfish source code](https://github.com/edthedev/scratch_lessons/blob/master/Screenshot%202017-08-06%20at%208.40.33%20PM.png)
+
+## More Starfish!
+
+If you want more starfish to chase, duplicate the star fish a few times.
+
+ -![How to duplicate Starfish](https://github.com/edthedev/scratch_lessons/blob/master/Screenshot%202017-08-06%20at%208.40.53%20PM.png)		 
+ 
