@@ -14,7 +14,7 @@ If you make it to the other side, you win!
 
 Add the following code to the cat sprite, so that it will walk forward and backward when you press the left and right arrow keys.
 
-![cat code](catwalkcode.png)
+![cat code](walkleftrightcatcode.png)
 
 ![Move10](move10.png)
 
