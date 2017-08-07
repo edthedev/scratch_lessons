@@ -18,11 +18,18 @@ Add the following code to the cat sprite, so that it will walk forward and backw
 
 ![cat code](walkleftrightcatcode.png)
 
+To find these command blocks, you will need to look in the *Events* and *Motion* script block sections.
+
+![events](events.png)
+![motion](motion.png)
+
+The *when left arrow is pressed* command makes the command that follows it only happen when you press the left arrow key on the keyboard. Add this block twice. Select 'left arrow' for the first version, and select 'right arrow' for the second version.
+
 ![Move10](move10steps.png)
 
-The *move 10* command tells the cat to move a bit in the direction it is facing. It is facing to the right, so it will move right.
+The *move 10* command tells the cat to move a bit in the direction it is facing. It is facing to the right, so it will move right. Add this block twice. 
 
-Notice the minus sign in front of the 10 under the left arrow key code. This tells the cat to take 10 steps back, instead of forward. This code lets you use the left arrow key to take three big steps back when you accidentally step forward on a red light.
+For the *move 10* block below *when left arrow is pressed* put a minus sign in front of the 10. This tells the cat to take 10 steps back, instead of forward. This code lets you use the left arrow key to take three big steps back when you accidentally step forward on a red light.
 
 ### Make the Stop Light
 
