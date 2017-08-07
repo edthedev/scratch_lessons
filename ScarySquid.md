@@ -23,7 +23,7 @@ Click on the starfish sprite and add the following code:
 -![Starfish source code](https://github.com/edthedev/scratch_lessons/blob/master/Screenshot%202017-08-06%20at%208.40.33%20PM.png)
 
 Details to pay attention to:
-- This code references the squid sprite, so it will only work if you named the squid sprite "squid".
+- I named by squid sprite "scaryboy". Where you see "scaryboy" above, use the name you gave to your squid sprite.
 
 ## More Starfish!
 
