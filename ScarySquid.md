@@ -11,18 +11,19 @@ Start by adding a squid sprite and a starfish sprite.
 
 ## Code the Squid
 
-Click on the squid sprit and add the following code:
+Click on the squid sprite and add the following code:
 
 ![Squid source code](https://github.com/edthedev/scratch_lessons/blob/master/Screenshot%202017-08-06%20at%208.40.07%20PM.png)
 
-Details to pay attention to:
-- This code references the squid sprite, so it will only work if you named the squid sprite "squid".
 
 ## Code the starfish
 
 Click on the starfish sprite and add the following code:
 
 -![Starfish source code](https://github.com/edthedev/scratch_lessons/blob/master/Screenshot%202017-08-06%20at%208.40.33%20PM.png)
+
+Details to pay attention to:
+- This code references the squid sprite, so it will only work if you named the squid sprite "squid".
 
 ## More Starfish!
 
