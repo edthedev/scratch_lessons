@@ -29,9 +29,13 @@ Be sure to name the squid sprite 'squid'. The starfish code below uses this name
 ![Sprite info](NameYourSprite.png)
 ![Sprite Name](NameYourSprite2.png)
 
-Click on the starfish sprite and add the following code:
+Click on the starfish sprite and add the following code to make the starfish run away from the squid.
 
--![Starfish source code](https://github.com/edthedev/scratch_lessons/blob/master/Screenshot%202017-08-06%20at%208.40.33%20PM.png)
+-![Starfish source code](StarfishCode1.png)
+
+BONUS! Make the starfish wander around randomly when they are not being chased. Click on the starfish sprite and expand the code to match the following.
+
+-![Advanced Starfish source code](StarfishCode2.png)
 
 ## More Starfish!
 
