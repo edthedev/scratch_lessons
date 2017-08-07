@@ -1,4 +1,4 @@
-+![Squid chasing starfish](Screenshot 2017-08-06 at 8.39.47 PM.png)
++![Squid chasing starfish](https://github.com/edthedev/scratch_lessons/blob/master/Screenshot%202017-08-06%20at%208.39.47%20PM.png)
  -![Squid source code]()		 
  +![Squid source code](Screenshot 2017-08-06 at 8.40.07 PM.png)
  -![Starfish source code]()		 
