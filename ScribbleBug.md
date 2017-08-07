@@ -46,7 +46,7 @@ your mouse forever.
 
 ![Scripts Pen](ScriptsPen.png)
 
-![Pen color by 10](changepencolorby10.png)
+![Pen color by 10](changepenshadeby10.png)
 
 *Change pen color by 10* is another *Pen* script. It tells scribble bug to change its pen color just a little bit. Since it goes inside the *Forever* script, Scribble Bug will draw a rainbow line!
 
