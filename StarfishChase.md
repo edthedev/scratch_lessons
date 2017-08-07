@@ -55,3 +55,6 @@ If you want more starfish to chase, duplicate the star fish a few times.
 
 ![How to duplicate Starfish](https://github.com/edthedev/scratch_lessons/blob/master/Screenshot%202017-08-06%20at%208.40.53%20PM.png)		 
  
+ ## Remix
+ 
+ If you want to play or remix my version, you can find it [here](https://scratch.mit.edu/projects/170626313/).
