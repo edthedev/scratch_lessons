@@ -18,11 +18,16 @@ Add the following code to your sprite.
 ![Scribble Bug Code](ScribbleBugCode.png)
 
 The blocks we want are:
-- Pen Down
+- Pen Down 
+![Pen Down](pendown.png)
 - Forever
+![Forever](forever.png)
 - Point Toward
+![Point Toward](pointtowardsmousepointer.png)
 - Change pen color by 10
+![Pen color by 10](changepenshadeby10.png)
 - Move 10 steps
+![Move 10 steps](move10steps.png)
 
 
 ![Scripts Pen](ScriptsPen.png)
