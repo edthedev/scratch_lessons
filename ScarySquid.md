@@ -13,7 +13,7 @@ Start by adding a squid sprite and a starfish sprite.
 
 Click on the squid sprite and add the following code:
 
-![Squid source code](https://github.com/edthedev/scratch_lessons/blob/master/Screenshot%202017-08-06%20at%208.40.07%20PM.png)
+![Squid source code](https://github.com/edthedev/scratch_lessons/blob/master/SquidCode.png)
 
 
 ## Code the starfish
