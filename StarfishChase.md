@@ -55,6 +55,12 @@ If you want more starfish to chase, duplicate the star fish a few times.
 
 ![How to duplicate Starfish](https://github.com/edthedev/scratch_lessons/blob/master/Screenshot%202017-08-06%20at%208.40.53%20PM.png)		 
  
- ## Remix
+ ## Play
+
+![Green Flag](GreenFlag.png)
  
- If you want to play or remix my version, you can find it [here](https://scratch.mit.edu/projects/170626313/).
+Press the *Green Flag* to play your new game!
+
+![Squid chasing starfish](https://github.com/edthedev/scratch_lessons/blob/master/Screenshot%202017-08-06%20at%208.39.47%20PM.png) 
+ 
+If you want to play or remix my version, you can find it [here](https://scratch.mit.edu/projects/170626313/).
