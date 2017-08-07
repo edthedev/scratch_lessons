@@ -25,7 +25,7 @@ The blocks we want are:
 ![Forever](forever.png)
 - Point Toward
 ![Point Toward](pointtowardsmousepointer.png)
-- Change pen color by 10
+- Change pen shade by 10
 ![Pen color by 10](changepenshadeby10.png)
 - Move 10 steps
 ![Move 10 steps](move10steps.png)
@@ -52,9 +52,9 @@ your mouse forever.
 
 ![Scripts Pen](ScriptsPen.png)
 
-![Pen color by 10](changepenshadeby10.png)
+![Pen shade by 10](changepenshadeby10.png)
 
-*Change pen color by 10* is another *Pen* script. It tells scribble bug to change its pen color just a little bit. Since it goes inside the *Forever* script, Scribble Bug will draw a rainbow line!
+*Change pen shade by 10* is another *Pen* script. It tells scribble bug to change its pen color just a little bit. Since it goes inside the *Forever* script, Scribble Bug will draw a rainbow line!
 
 ![Scripts Motion](ScriptsMotion.png)
 
