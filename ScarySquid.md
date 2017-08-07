@@ -1,2 +1,7 @@
-
-![Squid chasing starfish]("Screenshot 2017-08-06 at 8.39.47 PM.png"T
++![Squid chasing starfish](Screenshot 2017-08-06 at 8.39.47 PM.png)
+ -![Squid source code]()		 
+ +![Squid source code](Screenshot 2017-08-06 at 8.40.07 PM.png)
+ -![Starfish source code]()		 
+ +![Starfish source code](Screenshot 2017-08-06 at 8.40.33 PM.png)
+ -![How to duplicate Starfish]()		 
+ +![How to duplicate Starfish](Screenshot 2017-08-06 at 8.40.53 PM.png)
