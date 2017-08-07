@@ -3,6 +3,7 @@
 ![Squid chasing starfish](https://github.com/edthedev/scratch_lessons/blob/master/Screenshot%202017-08-06%20at%208.39.47%20PM.png)
 
 Make a game where a squid follows your mouse pointer, and starfish run away from the squid.
+[To see what it is like, click here to play!](https://scratch.mit.edu/projects/170626313/#player)
 
 ## Add the first two sprites.
 
