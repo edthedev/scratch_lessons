@@ -50,4 +50,11 @@ Without the *wait 1 secs* command, our light would change much to fast, making t
 
 These commands change the color of the ball. Different numbers select different colors. I figured out which colors were red and green by trying lots of different numbers. Number 180 makes the ball green. Number 255 makes the ball red.
 
-Enjoy your new game! You can also [Play or Remix my version](https://scratch.mit.edu/projects/170705647/).
+## Play!
+
+Press the *Green Flag* to play your new game!
+![Green Flag](greenflag.png)
+
+![red light welcome](redlightwelcome.png)
+
+You can also [Play or Remix my version](https://scratch.mit.edu/projects/170705647/).
