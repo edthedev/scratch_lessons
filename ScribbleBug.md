@@ -67,6 +67,11 @@ your mouse forever.
 Now that you have all the parts, here's the way to assemble them, again.
 ![Scribble Bug Code](ScribbleBugCode.png)
 
-## Demo
+## Play!
 
-You can copy, remix and enjoy [My Version of Scribble Bug](https://scratch.mit.edu/projects/170692819/), too.
+Press the *Green Flag* to play your new game!
+![Green Flag](greenflag.png)
+
+![Scribble Bug Intro Picture](ScribbleBug.png)
+
+You can also copy, remix and enjoy [My Version of Scribble Bug](https://scratch.mit.edu/projects/170692819/), too.
