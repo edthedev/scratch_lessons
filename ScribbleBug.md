@@ -40,7 +40,7 @@ your mouse forever.
 
 ![Scripts Motion](ScriptsMotion.png)
 
-![Point Toward](pointtowardmousepointer.png)
+![Point Toward](pointtowardsmousepointer.png)
 
 *Point Toward* is a *Motion* script. You will use it to tell Scribble Bug to point toward your mouse pointer. Since it goes inside the *Forever* script, Scribble Bug will point toward your mouse forever.
 
