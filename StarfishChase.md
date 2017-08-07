@@ -34,8 +34,8 @@ Be sure to name the squid sprite 'Squid'. The starfish code below uses this name
 - Select 'Info'
 - ![Sprite info](NameYourSprite.png)
 - Type the new name 'Squid' in the box that appears.
-- Press the back arrow to return to the sprite list.
 - ![Sprite Name](NameYourSprite2.png)
+- Press the back arrow to return to the sprite list.
 
 
 Click on the starfish sprite and add the following code to make the starfish run away from the squid.
