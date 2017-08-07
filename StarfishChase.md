@@ -10,9 +10,9 @@ Start by adding one squid sprite and one starfish sprite.
 
 - The Sprite panel is in the lower left.
 - Find and press the *'Add Sprite'* button. It looks like a face.
-- ![Add sprite button](addsprite.png)
+- ![Add sprite button](NewSprite.png)
 - You can click the words on the left to explore the sets of sprites. 
-- ![Sprite Library](spritelibrary.png)
+- ![Sprite Library](SpriteLibrary.png)
 - Squid is in the *Underwater* set.
 - Find the *Squid* sprite and add *one*.
 - Repeat this process to add *one* *Starfish*.
