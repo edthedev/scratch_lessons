@@ -18,6 +18,7 @@ Add the following code to your sprite.
 ![Scribble Bug Code](ScribbleBugCode.png)
 
 The blocks we want are:
+- When Green Flag clicked ![green flag](whengreenflagclicked.png)
 - Pen Down 
 ![Pen Down](pendown.png)
 - Forever
