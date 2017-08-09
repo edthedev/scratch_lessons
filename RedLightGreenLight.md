@@ -53,6 +53,7 @@ These commands change the color of the ball. Different numbers select different 
 ## Play!
 
 Press the *Green Flag* to play your new game!
+
 ![Green Flag](greenflag.png)
 
 ![red light welcome](redlightwelcome.png)
