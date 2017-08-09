@@ -50,6 +50,20 @@ Without the *wait 1 secs* command, our light would change much to fast, making t
 
 These commands change the color of the ball. Different numbers select different colors. I figured out which colors were red and green by trying lots of different numbers. Number 180 makes the ball green. Number 255 makes the ball red.
 
+![control scripts](control.png)
+
+From the *Control* scripts, we will need another *forever* and an *if then else*.
+
+- ![forever](forever.png)
+- ![if...then](ifthenelse.png)
+
+![operators scripts](operators.png)
+
+From the *Operators* scripts, we will need *pick a random number from 1 to 10* and *less than (<)*
+
+- ![pick a random number 1 to 10](pickrandom1to10.png)
+- ![less than](lessthan.png)
+
 ## Play!
 
 Press the *Green Flag* to play your new game!
