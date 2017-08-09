@@ -23,7 +23,7 @@ Start by adding one squid sprite and one starfish sprite.
 
 Click on the squid sprite and add the following code:
 
-![Squid source code](https://github.com/edthedev/scratch_lessons/blob/master/SquidCode.png)
+![Squid source code](SquidCode.png)
 
 
 ## Code the starfish
