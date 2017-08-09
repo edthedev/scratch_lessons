@@ -64,6 +64,10 @@ From the *Operators* scripts, we will need *pick a random number from 1 to 10* a
 - ![pick a random number 1 to 10](pickrandom1to10.png)
 - ![less than](lessthan.png)
 
+Put it together inside the *Ball* sprite, and we have a stop light that randomly changes between red and green every second or so.
+
+![Stop light code](redlightcode.png)
+
 ## Play!
 
 Press the *Green Flag* to play your new game!
