@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    background-color: aliceblue;
+    width: 100%;
+}
+
+img {
+    vertical-align: middle;
+    align-content: center;
+    align-self: center;
+    padding: 0em;
+    max-width: 70%;
+    box-shadow: 0 0 22px lightgrey;
+}
