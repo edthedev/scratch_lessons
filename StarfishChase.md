@@ -1,6 +1,6 @@
 # Starfish Chase!
 
-![Squid chasing starfish](https://github.com/edthedev/scratch_lessons/blob/master/Screenshot%202017-08-06%20at%208.39.47%20PM.png)
+![Squid chasing starfish](welcomestarfish.png)
 
 Make a game where a squid follows your mouse pointer, and starfish run away from the squid.
 [To see what it is like, click here to play!](https://scratch.mit.edu/projects/170626313/#player)
@@ -53,7 +53,7 @@ Click on the starfish sprite and expand the code to match the following.
 
 If you want more starfish to chase, duplicate the star fish a few times.
 
-![How to duplicate Starfish](https://github.com/edthedev/scratch_lessons/blob/master/Screenshot%202017-08-06%20at%208.40.53%20PM.png)		 
+![How to duplicate Starfish](duplicate.png)
  
  ## Play
 
@@ -61,6 +61,6 @@ If you want more starfish to chase, duplicate the star fish a few times.
  
 Press the *Green Flag* to play your new game!
 
-![Squid chasing starfish](https://github.com/edthedev/scratch_lessons/blob/master/Screenshot%202017-08-06%20at%208.39.47%20PM.png) 
+![Squid chasing starfish](welcomestarfish.png)
  
 If you want to play or remix my version, you can find it [here](https://scratch.mit.edu/projects/170626313/).
