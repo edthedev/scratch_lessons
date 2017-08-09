@@ -1,4 +1,4 @@
-# Starfish Chase!
+# Lesson 3: Starfish Chase!
 
 ![Squid chasing starfish](welcomestarfish.png)
 
