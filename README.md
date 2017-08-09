@@ -7,4 +7,4 @@ Some lessons designed for learning scratch.
 
 ## Alternate Formats
 
-- [All Lessons Combined](/AllLessons.md)
+- [All Lessons Combined](http://scratch.delaporte.us)
