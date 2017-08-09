@@ -1,4 +1,4 @@
-# Red Light! Green Light!
+# Lesson 1: Red Light! Green Light!
 
 ![red light welcome](redlightwelcome.png)
 
