@@ -1,4 +1,4 @@
-# Scribble Bug
+# Lesson 2: Scribble Bug!
 
 ![Scribble Bug Intro Picture](ScribbleBug.png)
 
