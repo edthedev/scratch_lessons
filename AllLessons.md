@@ -188,6 +188,4 @@ If you want more starfish to chase, duplicate the star fish a few times.
 
 Press the *Green Flag* to play your new game!
 
-![red light welcome](redlightwelcome.png)
-
 If you want to play or remix my version, you can find it [here](https://scratch.mit.edu/projects/170626313/).
