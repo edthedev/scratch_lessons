@@ -29,7 +29,7 @@ The *when left arrow is pressed* command makes the command that follows it only 
 
 The *move 10* command tells the cat to move a bit in the direction it is facing. It is facing to the right, so it will move right. Add this block twice. 
 
-For the *move 10* block below *when left arrow is pressed* put a minus sign in front of the 10. This tells the cat to take 10 steps back, instead of forward. This code lets you use the left arrow key to take three big steps back when you accidentally step forward on a red light.
+For the *move 10* block below *when left arrow is pressed* put a minus sign (-) in front of the 10. This tells the cat to take 10 steps back, instead of forward. This code lets you use the left arrow key to take three big steps back when you accidentally step forward on a red light.
 
 ### Make the Stop Light
 
