@@ -7,6 +7,8 @@
 
 ### Looking for something?
 
+If you are reading this print-out and want another copy, you can go to http://scratch.delaporte.us and print another copy.
+
 - [Scratch Animations](https://scratch.mit.edu/explore/projects/animations/)
 - [Scratch Art](https://scratch.mit.edu/explore/projects/art/)
 - [Scratch Games](https://scratch.mit.edu/explore/projects/games/)
