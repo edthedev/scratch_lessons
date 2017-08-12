@@ -13,3 +13,8 @@
 - [Scratch Music](https://scratch.mit.edu/explore/projects/music/)
 - [Scratch Stories](https://scratch.mit.edu/explore/projects/stories/)
 - [Scratch Tutorials](https://scratch.mit.edu/explore/projects/tutorials/)
+
+### Want to Help?
+
+- [Have a Suggestion for us?](https://github.com/edthedev/scratch_lessons/issues)
+- [See how this page was made on GitHub](https://github.com/edthedev/scratch_lessons/)
