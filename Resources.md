@@ -1,9 +1,9 @@
 ## More to Explore!
 
 - [Explore Lots of Scratch Projects](https://scratch.mit.edu/explore/projects/all)
+- [Read a Free Book about Scratch](https://stwww1.weizmann.ac.il/scratch/scratch_en/)
 - [Try out Berkley Snap!](http://snap.berkeley.edu/) *Snap!* is a lot like *Scratch!* and has some fun extra features, like the ability to load your programs onto real life robots.
 - [Download the Berkley Snap Book](https://snap.berkeley.edu/SnapManual.pdf) - Most *Snap!* programs will also work in *Scratch!*
-- [Free Book about Scratch](https://stwww1.weizmann.ac.il/scratch/scratch_en/)
 
 ### Looking for something?
 
