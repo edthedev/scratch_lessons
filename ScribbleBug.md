@@ -65,6 +65,7 @@ your mouse forever.
 ## Assemble
 
 Now that you have all the parts, here's the way to assemble them, again.
+
 ![Scribble Bug Code](img/ScribbleBugCode.png)
 
 ## Play!
