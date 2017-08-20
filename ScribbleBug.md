@@ -31,13 +31,13 @@ The blocks we want are:
 ![Move 10 steps](move10steps.png)
 
 
-![Scripts Pen](Pen.png)
+![Scripts Pen](pen.png)
 
 ![Pen Down](pendown.png)
 
 *Pen Down* is a *Pen* script. Find it in the *Pen* section. You may need to scroll down in the scripts window. It tells Scribble Bug to touch the pen down to the page.
 
-![Scripts Control](Control2.png)
+![Scripts Control](control2.png)
 
 ![Forever](forever.png)
 
