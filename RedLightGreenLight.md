@@ -72,8 +72,6 @@ Put it together inside the *Ball* sprite, and we have a stop light that randomly
 
 Press the *Green Flag* to play your new game!
 
-![Green Flag](img/GreenFlag.png)
-
 ![red light welcome](img/redlightwelcome.png)
 
 You can also [Play or Remix my version](https://scratch.mit.edu/projects/170705647/).

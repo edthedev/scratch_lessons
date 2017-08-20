@@ -57,8 +57,6 @@ If you want more starfish to chase, duplicate the star fish a few times.
  
  ## Play
 
-![Green Flag](img/GreenFlag.png)
- 
 Press the *Green Flag* to play your new game!
 
 ![Squid chasing starfish](img/welcomestarfish.png)
