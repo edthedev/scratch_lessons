@@ -1,3 +1,7 @@
+## Want your version featured here?
+
+If you created or remixed of any of these lessons, I would love it if you [Leave me a comment!](https://scratch.mit.edu/users/edthedev/) If you want your project featured on this site, let me know that I have your permission to add a link to your work.
+
 ## More to Explore!
 
 - [Explore Lots of Scratch Projects](https://scratch.mit.edu/explore/projects/all)
