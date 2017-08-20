@@ -76,3 +76,7 @@ Press the *Green Flag* to play your new game!
 ![Scribble Bug Intro Picture](ScribbleBug.png)
 
 You can also copy, remix and enjoy [My Version of Scribble Bug](https://scratch.mit.edu/projects/170692819/), too.
+
+*Remixes*
+
+- [Smokey Dragon by jdelaporte](https://scratch.mit.edu/projects/171658206/) This version fixes the bouncing when bug catches the mouse pointer. 
