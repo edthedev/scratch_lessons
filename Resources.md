@@ -8,6 +8,7 @@ If you created or remixed of any of these lessons, I would love it if you [Leave
 - [Read a Free Book about Scratch](https://stwww1.weizmann.ac.il/scratch/scratch_en/)
 - [Try out Berkley Snap!](http://snap.berkeley.edu/) *Snap!* is a lot like *Scratch!* and has some fun extra features, like the ability to load your programs onto real life robots.
 - [Download the Berkley Snap Book](https://snap.berkeley.edu/SnapManual.pdf) - Most *Snap!* programs will also work in *Scratch!*
+- [Ben Writes article with more ways to learn to code](http://ben-writes.com/2014/learn-to-code-a-collection-of-programming-tutorials-and-resources-for-beginners/)
 
 ### Looking for something?
 
