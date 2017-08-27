@@ -5,6 +5,6 @@ Scratch! is a fun way to learn to code. You can make your own *art*, *movies*, a
 You may want to <a href="" onClick="window.print();return false">print</a> this page before you start.
 
 To get started, open 
-<a href="https://scratch.mit.edu/projects/editor/" target="_blank">https://scratch.mit.edu/projects/editorClick</a>. 
+<a href="https://scratch.mit.edu/projects/editor/" target="_blank">https://scratch.mit.edu/projects/editor</a>. 
 
 Then follow the instructions below.
