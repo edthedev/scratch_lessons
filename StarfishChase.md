@@ -55,7 +55,7 @@ If you want more starfish to chase, duplicate the star fish a few times.
 
 ![How to duplicate Starfish](img/duplicate.png)
  
- ## Play
+## Play
 
 Press the *Green Flag* to play your new game!
 
