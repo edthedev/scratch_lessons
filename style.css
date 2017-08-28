@@ -11,4 +11,17 @@ img {
     padding: 0em;
     max-width: 70%;
     box-shadow: 0 0 22px lightgrey;
-}
+} 
+@page  
+{ 
+    size: auto;   /* auto is the initial value */ 
+
+    /* this affects the margin in the printer settings */ 
+    margin: 25mm 25mm 25mm 25mm;  
+} 
+
+body  
+{ 
+    /* this affects the margin on the content before sending to printer */ 
+    margin: 0px;  
+} 
