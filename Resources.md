@@ -14,11 +14,10 @@ And if you want your project featured on this site, let me know that I have your
 - When you're ready to learn even more, the are many more [Scratch Tutorials](https://scratch.mit.edu/explore/projects/tutorials/) to explore.
 - Ready to learn another programming language? There are so many [Great ways to Learn to Code](http://ben-writes.com/2014/learn-to-code-a-collection-of-programming-tutorials-and-resources-for-beginners/)
 
-### Looking for something?
+### Do you need more copies?
 
 If you are reading this on paper, and want another copy, you can go to http://scratch.delaporte.us and print another copy.
 The contents of this web page are free to use under the MIT License.
-
 
 ### Want to Help?
 
