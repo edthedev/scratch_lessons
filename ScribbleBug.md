@@ -82,7 +82,7 @@ Drag the blocks with the mouse until they snap together.
 
 ## Play!
 
-Press the *Green Flag* to play your new game!
+Congratulations! Press the *Green Flag* to play your new game!
 
 ![Scribble Bug Intro Picture](img/ScribbleBug.png)
 
