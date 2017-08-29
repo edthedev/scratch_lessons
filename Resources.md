@@ -17,7 +17,7 @@ And if you want your project featured on this site, let me know that I have your
 ### Do you need more copies?
 
 If you are reading this on paper, and want another copy, you can go to http://scratch.delaporte.us and print another copy.
-The contents of this web page are free to use under the MIT License.
+The contents of this web page are free to use under the MIT License. The MIT License means that you have a right to use, copy and share this for free.
 
 ### Want to Help?
 
