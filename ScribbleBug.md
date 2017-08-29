@@ -38,7 +38,7 @@ The blocks we need are:
 *when Green Flag clicked* is an *Event* block. Find it in the *Events* section. It tells Scribble Bug when to get started.
 Drag it from the *Block List* to the *Script* area to the right.
 
-[Drag the block to the script area](img/dragBlockIntoScript.png)
+![Drag the block to the script area](img/dragBlockIntoScript.png)
 
 ### 2 Pen Blocks
 
