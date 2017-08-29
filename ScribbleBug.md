@@ -43,11 +43,11 @@ The blocks we need are:
 
 ![Pen Down](img/pendown.png)
 
-*Pen Down* is a *Pen* script. Find it in the *Pen* section. You may need to scroll down in the scripts window. It tells Scribble Bug to touch the pen down to the page.
+*Pen Down* is a *Pen* block. Find it in the *Pen* section. You may need to scroll down in the scripts window. It tells Scribble Bug to touch the pen down to the page.
 
 ![Pen shade by 10](img/changepencolorby10.png)
 
-*Change pen shade by 10* is another *Pen* script. It tells scribble bug to change its pen color just a little bit. Since it goes inside the *Forever* script, Scribble Bug will draw a rainbow line!
+*Change pen shade by 10* is another *Pen* block. It tells scribble bug to change its pen color just a little bit. If we call it enough times, the line becomes a rainbow! The *forever* block will make sure it gets called lots of times.
 
 ### 1 Control Block
 
@@ -55,8 +55,7 @@ The blocks we need are:
 
 ![Forever](img/forever.png)
 
-*Forever* is a *Control* script. Find it in the *Control* section. It will make the commands inside repeat forever. You will use it to make Scribble Bug follow 
-your mouse forever.
+*Forever* is a *Control* block. Find it in the *Control* section. It makes any blocks inside repeat forever. We will use it to make Scribble Bug follow the mouse forever.
 
 ### 2 Motion Blocks
 
@@ -64,17 +63,19 @@ your mouse forever.
 
 ![Point Toward](img/pointtowardsmousepointer.png)
 
-*Point Toward* is a *Motion* script. You will use it to tell Scribble Bug to point toward your mouse pointer. Since it goes inside the *Forever* script, Scribble Bug will point toward your mouse forever.
+*Point Toward* is a *Motion* block. We will use it to tell Scribble Bug to point toward the mouse pointer. Since it goes inside the *Forever* block, Scribble Bug will point toward the mouse forever.
 
 ![Move 10 steps](img/move10steps.png)
 
-*Move 10 steps* is another *Motion* script. It tell scribble bug to move forward a little bit. Since it goes inside the *Forever* script, Scribble Bug will always move forward. If we forgot this command, Scribble Bug would forget to move.
+*Move 10 steps* is another *Motion* block. It tell scribble bug to move forward a little bit. Since it goes inside the *Forever* block, Scribble Bug will always move forward. If we forget this command, Scribble Bug will forget to move.
 
 ## Assemble
 
-Now that you have all the parts, here's the way to assemble them, again.
+Now that we have all the parts, here's the way to put them together:
 
 ![Scribble Bug Code](img/ScribbleBugCode.png)
+
+Drag the blocks with the mouse until they snap together.
 
 ## Play!
 
