@@ -69,6 +69,9 @@ The blocks we need are:
 
 *Move 10 steps* is another *Motion* block. It tell scribble bug to move forward a little bit. Since it goes inside the *Forever* block, Scribble Bug will always move forward. If we forget this command, Scribble Bug will forget to move.
 
+You can double-click any block to try it out. Some blocks do not do much until they are connected to other blocks. But *Move 10 steps* is a good block to try double-clicking. *Move 10 steps* will make the sprite move a little bit.
+
+
 ## Assemble
 
 Now that we have all the parts, here's the way to put them together:
