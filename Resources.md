@@ -6,7 +6,7 @@ And if you want your project featured on this site, let me know that I have your
 
 ## There is so much more to Explore!
 
-- Try these other [Scratch Programs](https://scratch.mit.edu/studios/4239733/)
+- Try these other [Short Scratch Programs](https://scratch.mit.edu/studios/4239733/)
 - Scratch is great for making [Animations](https://scratch.mit.edu/explore/projects/animations/), [Art](https://scratch.mit.edu/explore/projects/art/), [Games](https://scratch.mit.edu/explore/projects/games/)
 - [Scratch Music](https://scratch.mit.edu/explore/projects/music/), and [Stories](https://scratch.mit.edu/explore/projects/stories/)!
 - You can download a [Free Book about Scratch](https://stwww1.weizmann.ac.il/scratch/scratch_en/)
