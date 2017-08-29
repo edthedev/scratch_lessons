@@ -8,7 +8,7 @@ Teach Scribble bug how to follow your mouse while he scribbles in fun colors.
 
 - If you want to, use the sprite library to change the cat into a bug, or some other animal.
 - The links at the left are sets of pictures. The bug I chose is in the *Animals* set.
-- ![Add sprite button](img/NewSprite.png)
+- ![Choose Costume From Library](img/chooseCostumeFromLibrary2.png)
 - ![Sprite Library](img/SpriteLibrary.png)
 
 ## Teach the Scribble Bug with Scratch Code
