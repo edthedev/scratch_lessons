@@ -1,8 +1,8 @@
 ## Do you want your remix featured here?
 
-If you created or remixed of any of these lessons, I would love it if you [Leave me a comment!](https://scratch.mit.edu/users/edthedev/).
+If you created or remixed of any of these lessons, I would love to hear about it. You can [leave a comment](https://scratch.mit.edu/users/edthedev/) at my *Scratch!* profile.
 
-If you want your project featured on this site, let me know that I have your permission to add a link to your work.
+And if you want your project featured on this site, let me know that I have your permission to add a link to your work.
 
 ## There is so much more to Explore!
 
