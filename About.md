@@ -5,10 +5,10 @@
 You may want to <a href="" onClick="window.print();return false">print</a> this page before you start.
 
 To get started, open the
-<a href="https://scratch.mit.edu/projects/editor/" target="_blank">Scratch project editor.</a>. 
+<a href="https://scratch.mit.edu/projects/editor/" target="_blank">Scratch project editor</a>. 
   
 | Remember! |
 | ------:| 
-| The Scratch editor is online at **scratch.mit.edu/create**   |  
+| **scratch.mit.edu/create**   |  
 
 Then follow the instructions below.
