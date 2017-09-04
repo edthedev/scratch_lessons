@@ -12,6 +12,12 @@ If you make it to the other side, you win!
 
 ## Build the Game
 
+### Start a new Project
+
+Find the *New* option in the *File* menu at the top left.
+
+![NewProject](img/fileNew.png)
+
 ### Teach the Cat to walk
 
 Add the following code to the cat sprite, so that it will walk forward and backward when you press the left and right arrow keys.
