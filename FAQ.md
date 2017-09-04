@@ -11,8 +11,8 @@
 
 ## I lost my sprite!
 
-1. Under *Motion* double-click the *go to x:0 y:0* block.
-1. Under *Looks* double-click the *show* block.
-1. In the Sprite list, right click the sprit and choose *Info*. Make sure the box next to *show* is checked.
-1. Under *Looks* double-click the *clear graphic effects* block.
+1. Under **Motion** double-click the **go to x:0 y:0** block.
+1. Under **Looks** double-click the **show** block.
+1. In the **Sprite List** in the lower right, right-click the sprite and choose **Info**. On the **Info** panel, make sure the box next to **show** is checked.
+1. Under **Looks** double-click the **clear graphic effects** block.
 
