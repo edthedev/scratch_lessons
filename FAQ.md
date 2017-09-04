@@ -1,5 +1,6 @@
 # Answers to some Frequently Asked Questions
-
+- How do I start a new project?
+> Find the *New* option in the *File* menu at the top left. ![NewProject](img/fileNew.png)
 - I clicked a new sprite and my code disappeared!
 > Don't panic. Click on your other sprites until you find your code blocks. 
 - How do I delete a sprite?
