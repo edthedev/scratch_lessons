@@ -10,6 +10,8 @@ Teach Scribble bug how to follow your mouse while he scribbles in fun colors.
 - ![Choose Costume From Library](img/chooseCostumeFromLibrary2.png)
 - The links at the left are sets of pictures. The bug I chose is in the *Animals* set.
 - ![Sprite Library](img/SpriteLibrary.png)
+- We don't need the Cat sprite for this program. Let's delete it.
+- ![Delete a sprite]()
 
 ## Teach the Scribble Bug with Scratch Code
 
