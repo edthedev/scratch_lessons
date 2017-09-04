@@ -12,13 +12,13 @@ If you make it to the other side, you win!
 
 ## Build the Game
 
-### Start a new Project
+### Lesson 2 Step 1: Start a new Project
 
 Find the *New* option in the *File* menu at the top left.
 
 ![NewProject](img/fileNew.png)
 
-### Teach the Cat to walk
+### Lesson 2 Step 2: Teach the Cat to walk
 
 Add the following code to the cat sprite, so that it will walk forward and backward when you press the left and right arrow keys.
 
@@ -37,7 +37,7 @@ The *move 10* command tells the cat to move a bit in the direction it is facing.
 
 For the *move 10* block below *when left arrow is pressed* put a minus sign (-) in front of the 10. This tells the cat to take 10 steps back, instead of forward. This code lets you use the left arrow key to take three big steps back when you accidentally step forward on a red light.
 
-### Make the Stop Light
+### Lesson 2 Step 3: Make the Stop Light
 
 ![cat and ball sprite listed](img/catandballsprite.png)
 
@@ -74,7 +74,7 @@ Put it together inside the *Ball* sprite, and we have a stop light that randomly
 
 ![Stop light code](img/redlightcode.png)
 
-## Play!
+## Lesson 2 Step 4: Play!
 
 Press the *Green Flag* to play your new game!
 
