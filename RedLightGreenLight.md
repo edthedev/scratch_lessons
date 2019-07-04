@@ -26,8 +26,8 @@ Add the following code to the cat sprite, so that it will walk forward and backw
 
 To find these command blocks, you will need to look in the *Events* and *Motion* script block sections.
 
-![events](img/events.png)
-![motion](img/motion.png)
+![events](img/ScriptsEvents.PNG)
+![motion](img/ScriptsMotion.png)
 
 The *when left arrow is pressed* command makes the command that follows it only happen when you press the left arrow key on the keyboard. Add this block twice. Select 'left arrow' for the first version, and select 'right arrow' for the second version.
 
@@ -56,14 +56,14 @@ Without the *wait 1 secs* command, our light would change much to fast, making t
 
 These commands change the color of the ball. Different numbers select different colors. I figured out which colors were red and green by trying lots of different numbers. Number 180 makes the ball green. Number 255 makes the ball red.
 
-![control scripts](img/control.png)
+![control scripts](img/ScriptsControl.png)
 
 From the *Control* scripts, we will need another *forever* and an *if then else*.
 
 - ![forever](img/forever.png)
 - ![if...then](img/ifthenelse.png)
 
-![operators scripts](img/operators.png)
+![operators scripts](img/ScriptsOperators.png)
 
 From the *Operators* scripts, we will need *pick a random number from 1 to 10* and *less than (<)*
 
