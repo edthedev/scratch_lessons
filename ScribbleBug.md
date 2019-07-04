@@ -56,7 +56,7 @@ Drag it from the *Block List* to the *Script* area to the right.
 
 ### Find 1 Control Block
 
-![Scripts Control](img/control2.png)
+![Scripts Control](img/ScriptsControl.png)
 
 ![Forever](img/forever.png)
 
@@ -64,7 +64,7 @@ Drag it from the *Block List* to the *Script* area to the right.
 
 ### Find 2 Motion Blocks
 
-![Scripts Motion](img/motion.png)
+![Scripts Motion](img/ScriptsMotion.png)
 
 ![Point Toward](img/pointtowardsmousepointer.png)
 
