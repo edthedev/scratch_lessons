@@ -33,7 +33,7 @@ The blocks we need are:
 
 ### Find 1 Event Block
 
-![Scripts Event](img/ScriptsEvents.png)
+![Scripts Event](img/ScriptsEvents.PNG)
 
 ![green flag](img/whengreenflagclicked.png) 
 
