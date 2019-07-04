@@ -44,6 +44,11 @@ Drag it from the *Block List* to the *Script* area to the right.
 
 ### Find 2 Pen Blocks
 
+*Pen* is an Extension in Scratch 3. Let's add it now.
+
+
+![Add Pen Module](img/AddModule.PNG)
+
 ![Scripts Pen](img/ScriptsPen.png)
 
 ![Pen Down](img/pendown.png)
