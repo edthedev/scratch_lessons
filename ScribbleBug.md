@@ -33,7 +33,7 @@ The blocks we need are:
 
 ### Find 1 Event Block
 
-![Scripts Event](img/events.png)
+![Scripts Event](img/ScriptsEvents.png)
 
 ![green flag](img/whengreenflagclicked.png) 
 
@@ -44,7 +44,7 @@ Drag it from the *Block List* to the *Script* area to the right.
 
 ### Find 2 Pen Blocks
 
-![Scripts Pen](img/pen.png)
+![Scripts Pen](img/ScriptsPen.png)
 
 ![Pen Down](img/pendown.png)
 
