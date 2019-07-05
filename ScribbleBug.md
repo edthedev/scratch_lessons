@@ -39,20 +39,26 @@ The blocks we need are:
 | ![Point Toward](img/pointtowardsmousepointer.png) | **Point Toward** is a *Motion* block. We will use it to tell Scribble Bug to point toward the mouse pointer. |
 | ![Move 10 steps](img/move10steps.png) | **Move 10 steps** is another *Motion* block. It tell scribble bug to move forward a little bit. |
 
+Drag **Point toward mouse pointer** and **Move 10 steps** from the *Block List* into the *Script* area.
+
 - Since *Point Toward Mouse* goes inside the *Forever* block, Scribble Bug will point toward the mouse forever.
 - Since *Move 10 steps* goes inside the *Forever* block, Scribble Bug will always move forward. If we forget this command, Scribble Bug will forget to move.
 
-You can double-click any block to try it out. Some blocks do not do much until they are connected to other blocks. But *Move 10 steps* is a good block to try double-clicking. *Move 10 steps* will make the sprite move a little bit.
+```
+Tip: You can double-click any block to try it out!
+```
 
+Move 10 Steps is a good block to try double-clicking. It will make the sprite move a little bit.
 
 ### Find 1 Event Block
 
 ![Scripts Event](img/ScriptsEvents.PNG)
 
-![green flag](img/whengreenflagclicked.png) 
+| Block | Description | 
+|--|--|
+| ![green flag](img/whengreenflagclicked.png)  | *when Green Flag clicked* is an *Event* block. Find it in the *Events* section. It tells Scribble Bug when to get started. |
 
-*when Green Flag clicked* is an *Event* block. Find it in the *Events* section. It tells Scribble Bug when to get started.
-Drag it from the *Block List* to the *Script* area to the right.
+Drag **When Green Flag clicked** from the *Block List* into the *Script* area.
 
 ![Drag the block to the script area](img/dragBlockIntoScript.png)
 
@@ -60,9 +66,11 @@ Drag it from the *Block List* to the *Script* area to the right.
 
 ![Scripts Control](img/ScriptsControl.png)
 
-![Forever](img/forever.png)
+| Block | Description | 
+|--|--|
+| ![Forever](img/forever.png) | *Forever* is a *Control* block. Find it in the *Control* section. It makes any blocks inside repeat forever. | 
 
-*Forever* is a *Control* block. Find it in the *Control* section. It makes any blocks inside repeat forever. We will use it to make Scribble Bug follow the mouse forever.
+We will **Forever** to make Scribble Bug follow the mouse forever.
 
 ### Find 2 Pen Blocks
 
@@ -80,13 +88,12 @@ You now have new *Pen* commands available.
 
 ![Scripts Pen](img/ScriptsPen.png)
 
-![Pen Down](img/pendown.png)
+| Block | Description | 
+|--|--|
+| ![Pen Down](img/pendown.png) | *Pen Down* is a *Pen* block. Find it in the *Pen* section. You may need to scroll down in the scripts window. It tells Scribble Bug to touch the pen down to the page. |
+| ![Pen shade by 10](img/changepencolorby10.png) | **Change pen color by 10** is another *Pen* block. It tells scribble bug to change its pen color just a little bit. | 
 
-*Pen Down* is a *Pen* block. Find it in the *Pen* section. You may need to scroll down in the scripts window. It tells Scribble Bug to touch the pen down to the page.
-
-![Pen shade by 10](img/changepencolorby10.png)
-
-*Change pen shade by 10* is another *Pen* block. It tells scribble bug to change its pen color just a little bit. If we call it enough times, the line becomes a rainbow! The *forever* block will make sure it gets called lots of times.
+If we call **Change pen color by 10**  enough times, our line becomes a rainbow! The **forever** block will make sure it gets called lots of times.
 
 ## Step 4: Assemble the blocks
 
