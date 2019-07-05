@@ -69,9 +69,15 @@ Drag it from the *Block List* to the *Script* area to the right.
 
 *Pen* is an Extension in Scratch 3. Let's add it now.
 
+Find and press the `Add Extension` button in the bottom left.
+
 ![Add Pen Module](img/AddModule.PNG)
 
+Choose the `Pen` extension.
+
 ![Add Pen Module](img/ChooseAnExtension.PNG)
+
+You now have new *Pen* commands available.
 
 ![Scripts Pen](img/ScriptsPen.png)
 
