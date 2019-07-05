@@ -25,6 +25,7 @@ Visit the web version of this booklet to find links to lots of additional resour
 - You can download a [Free Book about Berkley Snap Book](https://snap.berkeley.edu/SnapManual.pdf) - Most *Snap!* programs will also work in *Scratch!*
 - When you're ready to learn even more, the are many more [Scratch Tutorials](https://scratch.mit.edu/explore/projects/tutorials/) to explore.
 - Ready to learn another programming language? There are so many [Great ways to Learn to Code](http://ben-writes.com/2014/learn-to-code-a-collection-of-programming-tutorials-and-resources-for-beginners/)
+- [More Resources to Learn to Code](https://github.com/edthedev/edthedev.github.io/blob/master/Learn2Code.md)
 
 ### Want to Help?
 
