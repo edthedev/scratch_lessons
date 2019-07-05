@@ -24,10 +24,11 @@ Add the following code to the cat sprite, so that it will walk forward and backw
 
 ![cat code](img/walkleftrightcatcode.png)
 
-To find these command blocks, you will need to look in the *Events* and *Motion* script block sections.
+To find these command blocks, you will need to look in the *Motion* and *Events* script block sections.
 
-![events](img/ScriptsEvents.PNG)
-![motion](img/ScriptsMotion.png)
+- ![motion](img/ScriptsMotion.png)
+
+- ![events](img/ScriptsEvents.PNG)
 
 The *when left arrow is pressed* command makes the command that follows it only happen when you press the left arrow key on the keyboard. Add this block twice. Select 'left arrow' for the first version, and select 'right arrow' for the second version.
 
