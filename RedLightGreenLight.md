@@ -63,7 +63,7 @@ From the *Control* scripts, we will need another *forever* and an *if then else*
 - ![forever](img/forever.png)
 - ![if...then](img/ifthenelse.png)
 
-![operators scripts](img/ScriptsOperators.png)
+![operators scripts](img/ScriptsOperators.PNG)
 
 From the *Operators* scripts, we will need *pick a random number from 1 to 10* and *less than (<)*
 
