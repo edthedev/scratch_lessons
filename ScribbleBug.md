@@ -71,6 +71,8 @@ Drag it from the *Block List* to the *Script* area to the right.
 
 ![Add Pen Module](img/AddModule.PNG)
 
+![Add Pen Module](img/ChooseAnExtension.PNG)
+
 ![Scripts Pen](img/ScriptsPen.png)
 
 ![Pen Down](img/pendown.png)
