@@ -10,8 +10,7 @@ Teach Scribble bug how to follow your mouse while he scribbles in fun colors.
 - ![Choose Costume From Library](img/chooseCostumeFromLibrary2.png)
 - The links at the left are sets of pictures. The bug I chose is in the *Animals* set.
 - ![Sprite Library](img/SpriteLibrary.png)
-- We don't need the Cat sprite for this program. Let's delete it.
-- ![Delete a sprite](img/deleteASprite.png)
+- ![Delete a sprite](img/deleteASprite.png) We don't need the Cat sprite for this program. Let's delete it.
 
 ## Step 2: Read the Scribble Bug Scratch Code
 
@@ -35,13 +34,13 @@ The blocks we need are:
 
 ![Scripts Motion](img/ScriptsMotion.png)
 
-![Point Toward](img/pointtowardsmousepointer.png)
+| Block | Description | 
+|--|--|
+| ![Point Toward](img/pointtowardsmousepointer.png) | **Point Toward** is a *Motion* block. We will use it to tell Scribble Bug to point toward the mouse pointer. |
+| ![Move 10 steps](img/move10steps.png) | **Move 10 steps** is another *Motion* block. It tell scribble bug to move forward a little bit. |
 
-*Point Toward* is a *Motion* block. We will use it to tell Scribble Bug to point toward the mouse pointer. Since it goes inside the *Forever* block, Scribble Bug will point toward the mouse forever.
-
-![Move 10 steps](img/move10steps.png)
-
-*Move 10 steps* is another *Motion* block. It tell scribble bug to move forward a little bit. Since it goes inside the *Forever* block, Scribble Bug will always move forward. If we forget this command, Scribble Bug will forget to move.
+- Since *Point Toward Mouse* goes inside the *Forever* block, Scribble Bug will point toward the mouse forever.
+- Since *Move 10 steps* goes inside the *Forever* block, Scribble Bug will always move forward. If we forget this command, Scribble Bug will forget to move.
 
 You can double-click any block to try it out. Some blocks do not do much until they are connected to other blocks. But *Move 10 steps* is a good block to try double-clicking. *Move 10 steps* will make the sprite move a little bit.
 
