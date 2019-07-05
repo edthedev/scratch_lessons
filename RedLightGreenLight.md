@@ -70,6 +70,10 @@ From the *Operators* scripts, we will need *pick a random number from 1 to 10* a
 - ![pick a random number 1 to 10](img/pickrandom1to10.png)
 - ![less than](img/lessthan.png)
 
+To insert the green 'pick random 1 to 10' block into the '< 5' block it use the mouse to grab the far left end of the 'pick random 1 to 10' block, then drag it into the left bubble of the '< 5' block.
+
+- ![connecting blocks](img/connectlogic.png)
+
 Put it together inside the *Ball* sprite, and we have a stop light that randomly changes between red and green every second or so.
 
 ![Stop light code](img/redlightcode.png)
