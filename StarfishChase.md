@@ -10,10 +10,12 @@ Make a game where a squid follows your mouse pointer, and starfish run away from
 Start by adding one squid sprite and one starfish sprite.
 
 - The Sprite panel is in the lower left.
-- Find and press the *'Add Sprite'* button. It looks like a face.
-- ![Add sprite button](img/NewSprite.png)
-- You can click the words on the left to explore the sets of sprites. 
-- ![Sprite Library](img/SpriteLibrary.png)
+
+| Block | Description |  
+|---|----|  
+| ![Add sprite button](img/NewSprite.png) | *'Add Sprite'*  looks like a face. |  
+| ![Sprite Library](img/SpriteLibrary.png) | Click the words on the left to explore the sets of sprites. | 
+
 - Squid is in the *Underwater* set.
 - Find the *Squid* sprite and add *one*.
 - Repeat this process to add *one* *Starfish*.
@@ -32,10 +34,11 @@ Be sure to name the squid sprite 'Squid'. The starfish code below uses this name
 
 - Right-click on the squid sprite.
 - Select 'Info'
-- ![Sprite info](img/NameYourSprite.png)
-- Type the new name 'Squid' in the box that appears.
-- ![Sprite Name](img/NameYourSprite2.png)
-- Press the back arrow to return to the sprite list.
+
+| Block | Description |  
+|---|----|  
+| ![Sprite info](img/NameYourSprite.png) | Type the new name 'Squid' in the box that appears. |
+| ![Sprite Name](img/NameYourSprite2.png) | Press the back arrow to return to the sprite list. |
 
 
 Click on the starfish sprite and add the following code to make the starfish run away from the squid.
