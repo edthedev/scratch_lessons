@@ -44,11 +44,9 @@ Drag **Point toward mouse pointer** and **Move 10 steps** from the *Block List* 
 - Since *Point Toward Mouse* goes inside the *Forever* block, Scribble Bug will point toward the mouse forever.
 - Since *Move 10 steps* goes inside the *Forever* block, Scribble Bug will always move forward. If we forget this command, Scribble Bug will forget to move.
 
-```
-Tip: You can double-click any block to try it out!
-```
+> Tip: You can double-click any block to try it out!
 
-Move 10 Steps is a good block to try double-clicking. It will make the sprite move a little bit.
+***Move 10 Steps*** is a good block to try double-clicking. It will make the sprite move a little bit.
 
 ### Find 1 Event Block
 
@@ -76,11 +74,11 @@ We will **Forever** to make Scribble Bug follow the mouse forever.
 
 *Pen* is an Extension in Scratch 3. Let's add it now.
 
-Find and press the `Add Extension` button in the bottom left.
+| Button | Description | 
+|--|--|
+| ![Add Pen Module](img/AddModule.PNG) | Find and press the `Add Extension` button in the bottom left. |
 
-![Add Pen Module](img/AddModule.PNG)
-
-Choose the `Pen` extension.
+Choose the **Pen** extension.
 
 ![Add Pen Module](img/ChooseAnExtension.PNG)
 
@@ -113,4 +111,4 @@ You can also copy, remix and enjoy [My Version of Scribble Bug](https://scratch.
 
 *Remixes*
 
-- [Smokey Dragon by jdelaporte](https://scratch.mit.edu/projects/171658206/) This version fixes the bouncing when bug catches the mouse pointer. 
+- [Smokey Dragon by jdelaporte](https://scratch.mit.edu/projects/171658206/) is a remix that removes the bouncing when bug catches the mouse pointer. 
